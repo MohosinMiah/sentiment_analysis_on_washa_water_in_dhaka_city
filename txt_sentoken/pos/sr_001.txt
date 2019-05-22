@@ -1,0 +1,12 @@
+
+
+#Importing BeautifulSoup
+from bs4 import BeautifulSoup as soup  # HTML data structure
+from urllib.request import urlopen as uReq  # Web client
+
+# URl to web scrap from.
+# in this example we web scrap graphics cards from Newegg.com
+page_url = "http://www.dhakatribune.com/bangladesh/dhaka/2019/05/07/dwasa-must-take-responsibility-for-its-polluted-water-supply"
+.......
+more 
+......
